@@ -1,7 +1,7 @@
-### Hotel California
-## ER Diagram
-## Relational Design
-## Interfaces
+## Hotel California
+### ER Diagram
+### Relational Design
+### Interfaces
 ```
 Reservation:
 The reservation interface prompts the user for their name and hotel details that are specific to the
@@ -23,7 +23,7 @@ Housekeeping:
 The housekeeping initerface takes a room number and a hotel ID. The houskeeping interface then goes to
 a room with that is dirty and marks it as clean after housekeeping has visited.
 ```
-## Limitations
+### Limitations
 ```
 FGP Table:
 Upon joining the frequent guest program (FGP), a user should be automatically added to the customer
