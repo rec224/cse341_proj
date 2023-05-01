@@ -1,6 +1,6 @@
 ## Hotel California
 ### ER Diagram
-xfun::embed_file("ER_diagram_final_cox.pdf")
+xfun::embed_file(ER_diagram_final_cox.pdf)
 ### Relational Design
 ### Interfaces
 
