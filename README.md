@@ -51,3 +51,5 @@ it has been excluded and is being noted as a limitation of the database I have c
 Reservation Interface:
 The reservation interface should also have a trigger that adds a customer to the customer database upon
 making a reservation. I did not have time to implement this feature.
+
+Dates are restricted to [1/1/2022, 2/28/2022]. I have this limitation because my rates table was getting very big. Reservations are also restricted to hotels 11, 12, and 13 because the rates table is so large with only the three hotels input. 
